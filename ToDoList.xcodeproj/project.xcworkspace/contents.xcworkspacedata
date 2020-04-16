@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ToDoList.xcodeproj">
+      location = "group:/Users/mostafasamir/Desktop/Labs/ToDoList/ToDoList/11.png">
+   </FileRef>
+   <FileRef
+      location = "group:1.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
